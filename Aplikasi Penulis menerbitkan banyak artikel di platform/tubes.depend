@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1735379855 source:c:\users\lenov\documents\tubes\tubes std\child.cpp
+	"child.h"
+
+1735369625 c:\users\lenov\documents\tubes\tubes std\child.h
+	<iostream>
+	"parent.h"
+
+1735372462 c:\users\lenov\documents\tubes\tubes std\parent.h
+	<iostream>
+	"child.h"
+	"relasi.h"
+
+1735378295 source:c:\users\lenov\documents\tubes\tubes std\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1735372746 c:\users\lenov\documents\tubes\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1735379855 source:c:\users\lenov\documents\tubes\tubes std\parent.cpp
+	"parent.h"
+	"relasi.h"
+
+1735379067 source:c:\users\lenov\documents\tubes\tubes std\relasi.cpp
+	"relasi.h"
+
+1735400474 source:d:\kuliah v2\new folder\tubes std\child.cpp
+	"child.h"
+	<string>
+	<sstream>
+
+1735369625 d:\kuliah v2\new folder\tubes std\child.h
+	<iostream>
+	"parent.h"
+
+1735372462 d:\kuliah v2\new folder\tubes std\parent.h
+	<iostream>
+	"child.h"
+	"relasi.h"
+
+1735386357 d:\kuliah v2\new folder\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1735386338 source:d:\kuliah v2\new folder\tubes std\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1735386564 source:d:\kuliah v2\new folder\tubes std\parent.cpp
+	"parent.h"
+	"relasi.h"
+	<string>
+	<sstream>
+
+1735386564 source:d:\kuliah v2\new folder\tubes std\relasi.cpp
+	"relasi.h"
+	<string>
+	<sstream>
+
+1735989782 source:d:\tugas besar std\new folder\tubes std\child.cpp
+	"child.h"
+	<string>
+	<sstream>
+
+1735975036 d:\tugas besar std\new folder\tubes std\child.h
+	<iostream>
+	"parent.h"
+
+1735972947 d:\tugas besar std\new folder\tubes std\parent.h
+	<iostream>
+	"child.h"
+	"relasi.h"
+
+1735968309 d:\tugas besar std\new folder\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1735998082 source:d:\tugas besar std\new folder\tubes std\main.cpp
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1735989728 source:d:\tugas besar std\new folder\tubes std\parent.cpp
+	"parent.h"
+	"relasi.h"
+	<string>
+	<sstream>
+
+1735998993 source:d:\tugas besar std\new folder\tubes std\relasi.cpp
+	"relasi.h"
+	<string>
+	<sstream>
+
